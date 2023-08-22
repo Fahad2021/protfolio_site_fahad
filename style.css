@@ -1,0 +1,36 @@
+body{
+    font-family: "Audiowide", sans-serif;
+}
+.banner-container{
+    background-color: slategray;
+}
+.banner-column{
+    background-color: bisque;
+}
+.navbar-color{
+    top: 0;
+    background-color: black;
+    position: sticky;
+    z-index: 50;
+}
+.about-container{
+    background-color: aquamarine;
+}
+.education-container{
+    background-color: aliceblue;
+}
+.bg-redype{
+    background-color: red;
+}
+.redype-color{
+    color:brown
+}
+.project-container{
+    background-color: aquamarine;
+}
+.circle{
+    background-color: blueviolet;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
