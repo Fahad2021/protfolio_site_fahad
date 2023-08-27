@@ -22,15 +22,41 @@ body{
 .bg-redype{
     background-color: red;
 }
+.bg-redype:hover{
+    color: black!important;
+}
 .redype-color{
     color:brown
 }
 .project-container{
     background-color: aquamarine;
 }
-.circle{
+.circle-edu{
     background-color: blueviolet;
     width: 150px;
     height: 150px;
     border-radius: 50%;
+}
+.form-container{
+    background-color: rgba(102, 100, 92, 0.89);
+
+}
+.inner-form{
+    background-color: rgb(145, 140, 140);
+}
+.footer{
+    background-color: blueviolet;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: blueviolet;
+}
+.circle:hover{
+    color: rgb(145, 140, 140);
 }
